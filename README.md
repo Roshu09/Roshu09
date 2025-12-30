@@ -20,6 +20,7 @@ I’m a Full Stack Developer focused on building MERN-based projects, actively p
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Roshu09&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Roshu09&theme=dark&no-frame=true&no-bg=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
